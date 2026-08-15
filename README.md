@@ -1,1 +1,1 @@
-# Athik
+# SmartResume AI
